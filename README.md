@@ -1,2 +1,3 @@
-Hello I'm Kayla Preston
-I'm taking cs532.
+Hello, I'm Kayla Preston.
+I'm taking CS 532.
+The spring course. 
